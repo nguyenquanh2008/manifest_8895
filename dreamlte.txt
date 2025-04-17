@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <manifest>
+     <project name="exynos8895/android_kernel_samsung_universal8895" path="kernel/samsung/exynos8895" remote="github" revision="lineage-17.1" />
+     <project name="exynos8895/android_device_samsung_universal8895-common" path="device/samsung/exynos8895-common" remote="github" revision="lineage-17.1" />
+     <project name="exynos8895/android_device_samsung_dreamlte" path="device/samsung/dreamlte" remote="github" revision="lineage-17.1" />
+     <project name="exynos8895/android_vendor_samsung_universal8895-common" path="vendor/samsung/exynos8895-common" remote="github" revision="lineage-17.1" />
+     <project name="exynos8895/android_vendor_samsung_dreamlte" path="vendor/samsung/dreamlte" remote="github" revision="lineage-17.1" />
+     <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
+     <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-17.1" />
+ </manifest>
